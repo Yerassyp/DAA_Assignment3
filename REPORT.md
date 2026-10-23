@@ -4,6 +4,8 @@
 **Student:** Irangait Yerassyl  
 **Group:** SE-2523  
 **Implementation:** Java 17, Maven, JUnit 5
+**GitHub Repository:** [Yerassyp/DAA_Assignment3](https://github.com/Yerassyp/DAA_Assignment3)
+
 
 ## 1. Goal and experiment setup
 

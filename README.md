@@ -8,6 +8,9 @@
 | Language | Java 17 |
 | Build and tests | Maven, JUnit 5 |
 
+
+**GitHub Repository:** [Yerassyp/DAA_Assignment3](https://github.com/Yerassyp/DAA_Assignment3)
+
 ## Overview
 
 This project implements weighted graphs and algorithms for connectivity, minimum spanning forests, strongly connected components, topological ordering, and shortest paths in a DAG. The graph uses adjacency lists and supports both directed and undirected edges. Algorithm code uses standard Java collections, without external graph libraries.
